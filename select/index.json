@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "死ぬのがいいわ",
   "base_artist": "Fujii Kaze",
-  "createdAt": "2025-12-13T22:09:31.290589Z",
+  "createdAt": "2026-02-08T14:13:29.274621Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,22 @@
       "artist": "藤井風",
       "has_synced": true,
       "path": "select/04_死ぬのがいいわ_藤井風.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "死ぬのがいいわ",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/05_死ぬのがいいわ_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "死ぬのがいいわ",
+      "artist": "藤井風",
+      "has_synced": true,
+      "path": "select/06_死ぬのがいいわ_藤井風.lrc"
     },
     {
       "id": "petitlyrics_1",
