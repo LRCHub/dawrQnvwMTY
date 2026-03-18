@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "死ぬのがいいわ",
+  "base_track": "死ぬのがいいわ - Shinunoga E-Wa",
   "base_artist": "Fujii Kaze",
-  "createdAt": "2026-02-12T05:35:35.025271Z",
+  "createdAt": "2026-03-18T00:59:29.405604Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -51,6 +51,38 @@
       "artist": "藤井風",
       "has_synced": true,
       "path": "select/06_死ぬのがいいわ_藤井風.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "死ぬのがいいわ - Shinunoga E-Wa",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/07_死ぬのがいいわ_-_Shinunoga_E-Wa_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "死ぬのがいいわ",
+      "artist": "Fujii Kaze (藤井風)",
+      "has_synced": true,
+      "path": "select/08_死ぬのがいいわ_Fujii_Kaze_(藤井風).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "死ぬのがいいわ",
+      "artist": "Fuji Kaze",
+      "has_synced": true,
+      "path": "select/09_死ぬのがいいわ_Fuji_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shinunoga E-Wa 「死ぬのがいいわ」",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/10_Shinunoga_E-Wa_「死ぬのがいいわ」_Fujii_Kaze.lrc"
     },
     {
       "id": "petitlyrics_1",
