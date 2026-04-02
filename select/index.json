@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "死ぬのがいいわ - Shinunoga E-Wa",
+  "base_track": "死ぬのがいいわ",
   "base_artist": "Fujii Kaze",
-  "createdAt": "2026-03-18T05:09:49.659649Z",
+  "createdAt": "2026-04-02T02:51:02.081634Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,6 +155,15 @@
       "artist": "藤井 風",
       "has_synced": false,
       "path": "select/pl_09_死ぬのがいいわ_(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_藤井_風.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "死ぬのがいいわ",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/localdb_01_死ぬのがいいわ_Fujii_Kaze.lrc",
+      "repo_name": "63jl1n5mN30"
     }
   ]
 }
