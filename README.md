@@ -1,4 +1,4 @@
-# Fujii Kaze – 死ぬのがいいわ - Shinunoga E-Wa
+# Fujii Kaze – 死ぬのがいいわ
 
 > **歌詞登録ステータス：同期歌詞あり**
 
